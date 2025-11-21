@@ -31,9 +31,9 @@ A practical, real-time object detection project using the state-of-the-art Faste
 - opencv-python
 
 Install dependencies with:
-    ```bash
-    pip install torch torchvision opencv-python
-    ```
+```bash
+pip install torch torchvision opencv-python
+```
 
 ## Getting Started
 
@@ -94,7 +94,7 @@ Install dependencies with:
 ## License
 
 This code is for educational and research purposes.  
-Add or update a LICENSE file if you wish to specify usage rights.
+LICENSE file uploaded for more details.
 
 ## Acknowledgements
 
